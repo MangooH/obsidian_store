@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "f77e9ef165991338",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5570f082edc21a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903e663fd8b4d24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📂 2nd Level MOC/📂 010 Themes/📚 014 Trends.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 014 Trends"
+            }
+          },
+          {
+            "id": "304fb398019d8b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📂 2nd Level MOC/📂 010 Themes/📚 011 Interests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 011 Interests"
+            }
+          },
+          {
+            "id": "3087452337aa36bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📂 2nd Level MOC/📂 040 Outputs/📚 041 Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 041 Projects"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7682184479922548",
+    "type": "split",
+    "children": [
+      {
+        "id": "83fc7d79fc3767a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e1e5891504d257a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2341f057f61316a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "943ab7993ce8fbca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dff916fbf0243709",
+    "type": "split",
+    "children": [
+      {
+        "id": "258780d3dcb7353e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "422d356fc77dae79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌐 000 MKH Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "🌐 000 MKH Home 의 백링크"
+            }
+          },
+          {
+            "id": "6e6ecfa35942ea4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌐 000 MKH Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "🌐 000 MKH Home 의 나가는 링크"
+            }
+          },
+          {
+            "id": "605c5a799232c6eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "f7a0dbd22311d0db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌐 000 MKH Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "🌐 000 MKH Home 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3087452337aa36bc",
+  "lastOpenFiles": [
+    "📂 1st Level MOC/📖 040 Outputs.md",
+    "📂 1st Level MOC/📖 030 Methodologies.md",
+    "📂 1st Level MOC/📖 020 Literature.md",
+    "📂 1st Level MOC/📖 010 Themes.md",
+    "📂 2nd Level MOC/📂 040 Outputs/📚 041 Projects.md",
+    "📂 2nd Level MOC/📂 030 Methodologies/📚 031 Literature Review.md",
+    "📂 2nd Level MOC/📂 020 Literature/📚 023 Web Resources.md",
+    "📂 2nd Level MOC/📂 020 Literature/📚 024 Chat Logs.md",
+    "📂 2nd Level MOC/📂 020 Literature/📚 022 Courses.md",
+    "📂 2nd Level MOC/📂 020 Literature/📚 021 Papers.md",
+    "📂 2nd Level MOC/📂 010 Themes/📚 014 Trends.md",
+    "📂 2nd Level MOC/📂 010 Themes/📚 013 Concepts.md",
+    "📂 2nd Level MOC/📂 010 Themes/📚 012 Topics.md",
+    "📂 2nd Level MOC/📂 010 Themes/📚 011 Interests.md",
+    "🌐 000 MKH Home.md",
+    "📂 2nd Level MOC/📂 030 Methodologies/무제.md",
+    "📂 2nd Level MOC/📂 040 Outputs",
+    "📂 2nd Level MOC/📂 030 Methodologies",
+    "📂 2nd Level MOC/📂 020 Literature",
+    "📂 2nd Level MOC/📂 010 Themes",
+    "📂 2nd Level MOC",
+    "📂 1st Level MOC",
+    "환영합니다!.md",
+    "무제.canvas",
+    "무제 1.canvas"
+  ]
+}
