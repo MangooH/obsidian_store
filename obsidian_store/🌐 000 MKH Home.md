@@ -16,4 +16,10 @@ tags: [MOC]
 		- [[📚 031 Literature Review]] 
 	- ### [[📖 040 Outputs|📖 040 OUTPUT]]
 		- [[📚 041 Projects]]
-- 
+- ## 1st to 5th Level MOC
+	- 010THEMES
+		-  011 Interests
+		- 012 Topics
+			- 012.01 MCP
+		- 013 Concepts
+		- 014 Trends
