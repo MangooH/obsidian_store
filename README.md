@@ -17,7 +17,3 @@
 	- [📖 020 Literature](obsidian_store/📂%201st%20Level%20MOC/📖%20020%20Literature.md)
 	- [📖 030 Methodologies](obsidian_store/📂%201st%20Level%20MOC/📖%20030%20Methodologies.md)
 	- [📖 040 Outputs](obsidian_store/📂%201st%20Level%20MOC/📖%20040%20Outputs.md)
-
-## MCP 관련 자료
-
-- [012.01.B MCP Hands-On](obsidian_store/📂%203rd%20Level%20MOC/012.01%20MCP/012.01.B%20MCP%20Hands-On/📑%20012.01.B%20MCP%20Hands-On.md)에서 MCP 통신 방식에 따른 server/client 구성 예제를 확인하실 수 있습니다.
