@@ -16,4 +16,8 @@
 		- [📚 014 Trends](obsidian_store/📂%202nd%20Level%20MOC/📂%20010%20Themes/📚%20014%20Trends.md)
 	- [📖 020 Literature](obsidian_store/📂%201st%20Level%20MOC/📖%20020%20Literature.md)
 	- [📖 030 Methodologies](obsidian_store/📂%201st%20Level%20MOC/📖%20030%20Methodologies.md)
+		- [📚 031 Literature Review](obsidian_store/📂%202nd%20Level%20MOC/📂%20030%20Methodologies/📚%20031%20Literature%20Review.md)
+		- [📚 032 Python](obsidian_store/📂%202nd%20Level%20MOC/📂%20030%20Methodologies/📚%20032%20Python.md)
+			- [📗 032.01 비동기프로그래밍](obsidian_store/📂%203rd%20Level%20MOC/032.01%20asyncio/📗%20032.01%20비동기프로그래밍.md)
+				- [📑 032.01.A Event Loop](obsidian_store/📂%203rd%20Level%20MOC/032.01%20asyncio/032.01.A%20Event%20Loop/📑%20032.01.A%20Event%20Loop.md)
 	- [📖 040 Outputs](obsidian_store/📂%201st%20Level%20MOC/📖%20040%20Outputs.md)
